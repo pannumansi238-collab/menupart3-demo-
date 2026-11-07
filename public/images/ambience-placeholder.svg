@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title">
+  <title id="title">Illustrated placeholder for restaurant ambiance photography</title>
+  <defs>
+    <linearGradient id="room" y2="1"><stop stop-color="#49382a"/><stop offset=".64" stop-color="#211c17"/><stop offset="1" stop-color="#151310"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#efbd72" stop-opacity=".64"/><stop offset="1" stop-color="#efbd72" stop-opacity="0"/></radialGradient>
+    <linearGradient id="wood" y2="1"><stop stop-color="#765038"/><stop offset="1" stop-color="#35251b"/></linearGradient>
+  </defs>
+  <rect width="1440" height="900" fill="url(#room)"/>
+  <path d="M0 0h1440v510H0z" fill="#302920"/>
+  <path d="M0 90h1440M0 190h1440M0 290h1440M0 390h1440" stroke="#c1935b" stroke-opacity=".15" stroke-width="3"/>
+  <path d="M90 0v540m250-540v540m250-540v540m250-540v540m250-540v540m250-540v540" stroke="#171511" stroke-opacity=".65" stroke-width="16"/>
+  <path d="M115 420V200a102 102 0 0 1 204 0v220z" fill="#8d6946" opacity=".48"/>
+  <path d="M132 420V206a85 85 0 0 1 170 0v214" fill="#e0b678" opacity=".28"/>
+  <circle cx="217" cy="264" r="190" fill="url(#glow)"/>
+  <path d="M1010 0h300v390h-300z" fill="#1e2821"/>
+  <path d="M1040 366c23-174 66-265 113-265 43 0 93 98 125 265" fill="#72805a"/>
+  <path d="M1092 365c-76-97-101-187-83-222 56 24 104 91 127 202m102 27c76-97 101-187 83-222-56 24-104 91-127 202" fill="#899265"/>
+  <path d="M0 545h1440v355H0z" fill="#181511"/>
+  <path d="M0 612h1440M0 700h1440M0 790h1440" stroke="#78583c" stroke-opacity=".25" stroke-width="3"/>
+  <g>
+    <path d="M705 0v178" stroke="#b99867" stroke-width="3"/>
+    <path d="M661 178h90l-12 30h-66z" fill="#d4aa69"/>
+    <ellipse cx="706" cy="213" rx="135" ry="118" fill="url(#glow)"/>
+    <path d="M1202 0v148" stroke="#b99867" stroke-width="3"/>
+    <path d="M1170 148h64l-10 23h-44z" fill="#d4aa69"/>
+    <ellipse cx="1202" cy="175" rx="100" ry="85" fill="url(#glow)"/>
+  </g>
+  <g fill="#4a3324" stroke="#a57b4e" stroke-width="5">
+    <path d="M142 540h430l-74 79H212z"/>
+    <path d="M195 619h25v205h-25zm286 0h25v205h-25z"/>
+    <path d="M810 493h400l-60 76H864z"/>
+    <path d="M864 569h23v228h-23zm285 0h23v228h-23z"/>
+  </g>
+  <g fill="#e9d8bd" opacity=".8">
+    <ellipse cx="343" cy="525" rx="76" ry="17"/>
+    <ellipse cx="1010" cy="479" rx="69" ry="15"/>
+  </g>
+  <g fill="#c98142">
+    <circle cx="343" cy="496" r="13"/><circle cx="1010" cy="451" r="12"/>
+  </g>
+  <g stroke="#c99d60" stroke-width="5" fill="none">
+    <path d="M314 530v-48m58 48v-48M982 489v-45m56 45v-45"/>
+    <path d="M244 609h75m88 0h75m434-34h72m83 0h74"/>
+  </g>
+  <text x="64" y="835" fill="#f4efe5" font-family="Georgia,serif" font-size="38" font-style="italic">Come as you are. There’s room for one more.</text>
+</svg>

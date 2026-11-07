@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 1040" role="img" aria-labelledby="title">
+  <title id="title">Illustrated placeholder for restaurant founder portrait photography</title>
+  <defs>
+    <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#6c4930"/><stop offset=".48" stop-color="#2b2520"/><stop offset="1" stop-color="#171714"/></linearGradient>
+    <linearGradient id="coat" x2="1" y2="1"><stop stop-color="#e4d7bf"/><stop offset="1" stop-color="#a89476"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#e9b46b" stop-opacity=".6"/><stop offset="1" stop-color="#e9b46b" stop-opacity="0"/></radialGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".7" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .11 0"/></filter>
+  </defs>
+  <rect width="820" height="1040" fill="url(#wall)"/>
+  <path d="M38 0h744v520H38z" fill="#25261f"/>
+  <path d="M38 0v520M410 0v520M782 0v520M38 174h744M38 347h744" fill="none" stroke="#887454" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="602" cy="210" r="220" fill="url(#light)"/>
+  <rect x="68" y="58" width="270" height="332" rx="125" fill="#2f372c" stroke="#b48b4e" stroke-width="3"/>
+  <path d="M102 354c45-136 165-209 225-264v262z" fill="#77805a" opacity=".55"/>
+  <path d="M574 500c28-89 95-138 155-160v225H558z" fill="#536144"/>
+  <path d="M245 1040c4-214 44-342 165-385 129-46 251 54 278 385z" fill="url(#coat)"/>
+  <path d="M333 690l91 68-81 282h-98c3-167 21-279 88-350z" fill="#f1e7d4" opacity=".6"/>
+  <path d="M495 687l-86 72 87 281h107c-9-180-29-293-108-353z" fill="#92836b"/>
+  <path d="M405 751v289" stroke="#54493d" stroke-width="3" opacity=".55"/>
+  <path d="M398 782h49l25 108-52 47-49-47z" fill="#72372a"/>
+  <path d="M383 572c-18-27-24-76-17-127 8-63 35-98 92-100 61-1 94 48 94 115 0 58-19 107-48 128-34 25-97 19-121-16z" fill="#aa7550"/>
+  <path d="M365 482c-22-75 7-143 50-171 52-35 132-4 148 45-37-15-62-13-93-6-40 9-57 30-105 34z" fill="#29231d"/>
+  <path d="M380 468c16 18 42 21 59 4m49 0c16 16 42 13 54-5" fill="none" stroke="#38271e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M436 515c24 20 57 21 80-1" fill="none" stroke="#f1c58b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M450 550c18 10 41 10 58 0" fill="none" stroke="#623a2b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M401 477l-17 13m128-16 17 11" stroke="#35231c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M447 469c8-8 22-8 29 0" fill="none" stroke="#edba7c" stroke-width="4" stroke-linecap="round"/>
+  <rect width="820" height="1040" filter="url(#grain)" opacity=".32"/>
+  <text x="52" y="984" fill="#e6a544" font-family="Georgia,serif" font-size="24" font-style="italic" letter-spacing="2">A kitchen full of stories.</text>
+</svg>
